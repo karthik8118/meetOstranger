@@ -1,0 +1,6 @@
+{
+  "name": "meetostranger",
+  "description": "A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.",
+  "logo": "https://meetostranger1.herokuapp.com/images/friends.png",
+  "keywords": ["real-time", "chat", "nodejs", "express", "mongoose", "socketio", "passport", "redis"]
+}
